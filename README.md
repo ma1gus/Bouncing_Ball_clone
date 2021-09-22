@@ -1,2 +1,2 @@
-# Android-game-Bouncing-Ball clone
+# Android-game-Bouncing-Ball
 Mobile game for Android
