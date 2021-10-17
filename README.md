@@ -1,1 +1,1 @@
-# Bouncing-Ball-clone (Example for my resume)
+# Bouncing Ball clone (Example for my resume)
