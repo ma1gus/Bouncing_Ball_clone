@@ -1,2 +1,1 @@
-# Android-game-Bouncing-Ball
-Mobile game for Android
+# Bouncing-Ball-clone (Example for my resume)
